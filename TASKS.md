@@ -23,9 +23,12 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 - 
 
 2. OPERATIONS ACTIVITIES
+- Receive and store raw materials from suppliers
 - Setting up tools and machines 
 - Carrying out production
 - Quality control 
+- Equipment maintenance
+
 
 
 ***
