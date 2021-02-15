@@ -19,6 +19,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * List of your company's primary activities divided into engineering activities and operations activities:o	Primary activities are related to the making of products and can also be divided into engineering or operations activities.
 1. ENGINEERING ACTIVITIES:
 - Design the construction plans
+- Incorporation of the plans into the 3d software
 - Find and analyze the best materials to develop the models. 
 - 
 
