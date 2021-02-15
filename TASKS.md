@@ -14,7 +14,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 - 	Forterra Pipe & Precast LLC – 4.090 employees.
 
 ***
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 4.018 companies
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
