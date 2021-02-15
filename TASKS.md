@@ -16,7 +16,18 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 4.018 companies
 ***
-* List of your company's primary activities divided into engineering activities and operations activities:
+* List of your company's primary activities divided into engineering activities and operations activities:o	Primary activities are related to the making of products and can also be divided into engineering or operations activities.
+1. ENGINEERING ACTIVITIES:
+- Design the construction plans
+- Find and analyze the best materials to develop the models. 
+- 
+
+2. OPERATIONS ACTIVITIES
+- Setting up tools and machines 
+- Carrying out production
+- Quality control 
+
+
 ***
 * List of your company's support activities:o	Support activities are the ones responsible for planning and oversight primary activities:
 1. Human resource management: 
