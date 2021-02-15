@@ -6,11 +6,10 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Your company's name: BUILDINGM
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 
-*Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)
-*327390 Other Concrete Product Manufacturing
+*Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing): 327390 Other Concrete Product Manufacturing
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
-- Oldcastle Materials Inc – 2.405 employees.
+-   Oldcastle Materials Inc – 2.405 employees.
 - 	Quikrete Holdings Inc – 3.750 employees.
 - 	Forterra Pipe & Precast LLC – 4.090 employees.
 
