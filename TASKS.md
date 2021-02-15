@@ -18,7 +18,22 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
-* List of your company's support activities:
+* List of your company's support activities:o	Support activities are the ones responsible for planning and oversight primary activities:
+1. Human resource management: 
+- Recruit candidates 
+- Hire the right employees
+- Training and support employees
+- Onboarding
+2. Finance:
+- Acquire the money and investments
+- Accounting
+- Payments
+3. Management: 
+- administrate the company
+- select the strategy
+- coordinate the tasks of the employees in order to accomplish the objective
+- Supervision
+
 ***
 
 ## Task 2
