@@ -79,11 +79,11 @@ This industry comprises establishments primarily engaged in manufacturing concre
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
-*Learn and follow safety regulations.See more occupations related to this task.
-*Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
-*Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
-*Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
-*Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
+* Learn and follow safety regulations.See more occupations related to this task.
+* Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
+* Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
+* Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
+* Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
