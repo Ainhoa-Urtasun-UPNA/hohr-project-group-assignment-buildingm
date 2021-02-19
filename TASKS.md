@@ -97,10 +97,10 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
 * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
 * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
-7. 5 technology skills
-8. Education:
-9. Wages:
-10. Top industry:
+6. 5 technology skills
+7. Education:
+8. Wages:
+9. Top industry:
 ### Operators
 1. ONET-SOC code and title:
 2. 5 most important tasks they carry out (provide the importance score, in Details):
