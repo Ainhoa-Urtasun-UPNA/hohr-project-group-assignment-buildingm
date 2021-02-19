@@ -83,7 +83,7 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
 * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
 * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
-8. Education:
+8. Education: bachelor's degree (90%) High school diploma or equivalent (5%) Associate's degree (5%)
 9. Wages: $45.80 hourly,$95,260 annual
 10. Top industry:Helpers-Roofers
 ### Engineers
