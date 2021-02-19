@@ -72,15 +72,15 @@ This industry comprises establishments primarily engaged in manufacturing concre
 2. Is this job routine? Your judgment (0-10):
 3. Is this job cognitive? Your judgment (0-10):
 4. 5 most important skills they require to possess (provide the importance score, in Details):
-* Computer aided design CAD software Hot technology — Autodesk AutoCAD Civil 3D Hot technology ; Autodesk Revit Hot technology ; Cadsoft Design/Build; Computer aided design and drafting software CADDSee more occupations related to this technology.
-* Data base user interface and query software — Data entry software Hot technology ; ISS Construction Manager; Microsoft Access Hot technology ; UDA Technologies ConstructionSuiteSee more occupations related to this technology.
-* Document management software — Adobe Systems Adobe Acrobat Hot technology ; Axios Systems assyst; Daily Manager; Site ManagerSee more occupations related to this technology.
-* Graphics or photo imaging software — Adobe Systems Adobe Creative Cloud Hot technology ; Drone image capturing software; Microsoft Visio Hot technology ; Trimble SketchUp Pro Hot technologySee more occupations related to this technology.
-* Project management software — HCSS HeavyBid; Microsoft SharePoint Hot technology ; Oracle Primavera Enterprise Project Portfolio Management Hot technology ; Quantum Software Solutions Quantum Project Manager
 6.  5 technology skills:
-7. Education:
-8. Wages:
-9. Top industry:
+* Learn and follow safety regulations.See more occupations related to this task.
+* Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
+* Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
+* Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
+* Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
+8. Education:
+9. Wages:
+10. Top industry:
 ### Engineers
 1. ONET-SOC code and title:
 2. 5 most important tasks they carry out (provide the importance score, in Details):
