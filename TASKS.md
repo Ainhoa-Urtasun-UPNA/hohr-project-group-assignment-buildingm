@@ -64,19 +64,14 @@ This industry comprises establishments primarily engaged in manufacturing concre
 ### Managers
 * ONET-SOC code and title:11-9021.00 - Construction Managers
 1.  5 most important tasks they carry out (provide the importance score, in Details):
-* Plan, schedule, or coordinate construction project activities to meet deadlines. (94%)
-* Prepare and submit budget estimates, progress reports, or cost tracking reports. (91%)
-* Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients. (90%)
-* Direct and supervise construction or related workers. (84%)
-* Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.(80%)
+* Plan, schedule, or coordinate construction project activities to meet deadlines.
+* Prepare and submit budget estimates, progress reports, or cost tracking reports.
+* Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.
+* Direct and supervise construction or related workers.See more occupations related to this task.
+*Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.
 2. Is this job routine? Your judgment (0-10):
 3. Is this job cognitive? Your judgment (0-10):
 4. 5 most important skills they require to possess (provide the importance score, in Details):
-* Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
-* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.See more occupations related to this skill.
-* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
-* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill.
-* Speaking — Talking to others to convey information effectively.
 6.  5 technology skills:
 * Learn and follow safety regulations.See more occupations related to this task.
 * Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
@@ -92,25 +87,25 @@ This industry comprises establishments primarily engaged in manufacturing concre
 3. Is this job routine? Your judgment (0-10):
 4. Is this job cognitive? Your judgment (0-10):
 5. 5 most important skills they require to possess (provide the importance score, in Details):
-* Learn and follow safety regulations.See more occupations related to this task.
-* Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
-* Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
-* Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
-* Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
-6. 5 technology skills
-7. Education:
-8. Wages:
-9. Top industry:
+7. 5 technology skills
+8. Education:
+9. Wages:
+10. Top industry:
 ### Operators
-1. ONET-SOC code and title:
+1. ONET-SOC code and title:47-2073.00 
 2. 5 most important tasks they carry out (provide the importance score, in Details):
 3. Is this job routine? Your judgment (0-10):
 4. Is this job cognitive? Your judgment (0-10):
 5. 5 most important skills they require to possess (provide the importance score, in Details):
-6. 5 technology skills:
-7. Education:
-8. Wages:
-9. Top industry:
+- * Learn and follow safety regulations.See more occupations related to this task.
+- * Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
+- * Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
+- * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
+- * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
+7. 5 technology skills:
+8. Education:
+9. Wages:
+10. Top industry:
 ***
 
 ## Task 3
