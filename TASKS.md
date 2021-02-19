@@ -49,6 +49,7 @@ This industry comprises establishments primarily engaged in manufacturing concre
 - Acquire the money and investments
 - Accounting
 - Payments
+- Analyze data to determine project feasibility
 3. Management: 
 - administrate the company
 - select the strategy
