@@ -85,15 +85,25 @@ This industry comprises establishments primarily engaged in manufacturing concre
 9.Wages:
 10.Top industry:
 ### Engineers
-1. ONET-SOC code and title:
+1. ONET-SOC code and title: 17-2141.00 - Mechanical Engineers
 2. 5 most important tasks they carry out (provide the importance score, in Details):
-3. Is this job routine? Your judgment (0-10):
-4. Is this job cognitive? Your judgment (0-10):
-5. 5 most important skills they require to possess (provide the importance score, in Details):
+* Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task (87%)
+* Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to this task (84%)
+* Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related to this task (79%)
+* Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more occupations related to this task (75%)
+* Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions. (75%)
+4. Is this job routine? Your judgment (0-10):
+5. Is this job cognitive? Your judgment (0-10):
+6. 5 most important skills they require to possess (provide the importance score, in Details):
 7. 5 technology skills
-8. Education:
-9. Wages:
-10. Top industry:
+* Analytical or scientific software — MAYA Nastran; Minitab Hot technology ; ReliaSoft BlockSim; The MathWorks MATLAB Hot technology (see all 24 examples)See more occupations related to this technology.
+* Computer aided design CAD software Hot technology — Autodesk Revit Hot technology ; Bentley MicroStation Hot technology ; Dassault Systemes CATIA; Mathsoft Mathcad (see all 19 examples)See more occupations related to this technology.
+* Computer aided manufacturing CAM software — 1CadCam Unigraphics; Rapid prototyping softwareSee more occupations related to this technology.
+* Configuration management software — Chef; Perforce Helix software; Puppet Hot technologySee more occupations related to this technology.
+* Data base user interface and query software — Data entry software Hot technology ; Microsoft Access Hot technology ; Microsoft SQL Server
+9. Education:
+10. Wages:
+11. Top industry:
 ### Operators
 1. ONET-SOC code and title:47-2073.00 Operating Engineers and Other Construction Equipment Operators
 2. 5 most important tasks they carry out (provide the importance score, in Details): 
