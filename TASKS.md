@@ -62,7 +62,7 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title:11-9021.00 - Construction Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
