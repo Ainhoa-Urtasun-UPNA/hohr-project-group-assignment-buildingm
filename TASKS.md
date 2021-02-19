@@ -97,15 +97,18 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Mathematics — Using mathematics to solve problems.See more occupations related to this skill (72%)
 * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill (72%)
 * Science — Using scientific rules and methods to solve problems (72%)
-8. 5 technology skills
+7. 5 technology skills
 * Analytical or scientific software — MAYA Nastran; Minitab Hot technology ; ReliaSoft BlockSim; The MathWorks MATLAB Hot technologySee more occupations related to this technology.
 * Computer aided design CAD software Hot technology — Autodesk Revit Hot technology ; Bentley MicroStation Hot technology ; Dassault Systemes CATIA; Mathsoft MathcadSee more occupations related to this technology.
 * Development environment software — Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technology ; Rockwell Automation; VerilogSee more occupations related to this technology.
 * Graphics or photo imaging software — Adobe Systems Adobe Illustrator Hot technology ; Microsoft Visio Hot technology ; SmugMug Flickr Hot technology ; Trimble SketchUp Pro Hot technologySee more occupations related to this technology.
 * Object or component oriented development software — C++ Hot technology ; G-code; Practical extraction and reporting language Perl Hot technology ; Python
 9. Education:
-10. Wages:
-11. Top industry:
+* Bachelor's degree (83%)
+* Associate's degree (7%)
+* Some college, no degree (5%)
+9. Wages:
+10. Top industry:
 ### Operators
 1. ONET-SOC code and title:47-2073.00 
 2. 5 most important tasks they carry out (provide the importance score, in Details):
