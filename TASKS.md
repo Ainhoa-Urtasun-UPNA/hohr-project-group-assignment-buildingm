@@ -89,26 +89,26 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related to this task (79%)
 * Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more occupations related to this task (75%)
 * Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions (75%)
-4. Is this job routine? Your judgment (0-10):
-5. Is this job cognitive? Your judgment (0-10):
-6. 5 most important skills they require to possess (provide the importance score, in Details):
+3. Is this job routine? Your judgment (0-10):
+4. Is this job cognitive? Your judgment (0-10):
+5. 5 most important skills they require to possess (provide the importance score, in Details):
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill (72%)
 * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill (72%)
 * Mathematics — Using mathematics to solve problems.See more occupations related to this skill (72%)
 * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill (72%)
 * Science — Using scientific rules and methods to solve problems (72%)
-7. 5 technology skills
+6. 5 technology skills
 * Analytical or scientific software — MAYA Nastran; Minitab Hot technology ; ReliaSoft BlockSim; The MathWorks MATLAB Hot technologySee more occupations related to this technology.
 * Computer aided design CAD software Hot technology — Autodesk Revit Hot technology ; Bentley MicroStation Hot technology ; Dassault Systemes CATIA; Mathsoft MathcadSee more occupations related to this technology.
 * Development environment software — Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technology ; Rockwell Automation; VerilogSee more occupations related to this technology.
 * Graphics or photo imaging software — Adobe Systems Adobe Illustrator Hot technology ; Microsoft Visio Hot technology ; SmugMug Flickr Hot technology ; Trimble SketchUp Pro Hot technologySee more occupations related to this technology.
 * Object or component oriented development software — C++ Hot technology ; G-code; Practical extraction and reporting language Perl Hot technology ; Python
-9. Education:
+7. Education:
 * Bachelor's degree (83%)
 * Associate's degree (7%)
 * Some college, no degree (5%)
-9. Wages:
-10. Top industry:
+8. Wages:
+9. Top industry:
 ### Operators
 1. ONET-SOC code and title:47-2073.00 
 2. 5 most important tasks they carry out (provide the importance score, in Details):
@@ -120,10 +120,10 @@ This industry comprises establishments primarily engaged in manufacturing concre
 - * Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
 - * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
 - * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
-7. 5 technology skills:
-8. Education:
-9. Wages:
-10. Top industry:
+6. 5 technology skills:
+7. Education:
+8. Wages:
+9. Top industry:
 ***
 
 ## Task 3
