@@ -44,6 +44,7 @@ This industry comprises establishments primarily engaged in manufacturing concre
 - Hire the right employees
 - Training and support employees
 - Onboarding
+- Contact with clients
 2. Finance:
 - Acquire the money and investments
 - Accounting
