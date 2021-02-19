@@ -77,25 +77,25 @@ This industry comprises establishments primarily engaged in manufacturing concre
 7. Wages:
 8. Top industry:
 ### Engineers
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills
-* Education:
-* Wages:
-* Top industry:
+1. ONET-SOC code and title:
+2.  5 most important tasks they carry out (provide the importance score, in Details):
+3.   Is this job routine? Your judgment (0-10):
+4.    Is this job cognitive? Your judgment (0-10):
+5.    5 most important skills they require to possess (provide the importance score, in Details):
+6.    5 technology skills
+7.    Education: 
+8.    Wages:
+9.    Top industry:
 ### Operators
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+1. ONET-SOC code and title:
+2. 5 most important tasks they carry out (provide the importance score, in Details):
+3. Is this job routine? Your judgment (0-10):
+4. Is this job cognitive? Your judgment (0-10):
+5. 5 most important skills they require to possess (provide the importance score, in Details):
+6. 5 technology skills:
+7. Education:
+8. Wages:
+9. Top industry:
 ***
 
 ## Task 3
