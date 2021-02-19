@@ -1,7 +1,10 @@
 This writing uses Markdown, for help go to [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Task 1
-* Objective: analyze your industry and decide your primary and support activities 
+* Objective: analyze your industry and decide your primary and support activities.
+* Every architectural project needs a concept model that helps architects and clients to visualize the idea.  3D printers for architectural models are becoming more and more common in cutting-edge studios all over the world.
+Models are the most realistic and approximate expression of what a building will look like once it is built. The viewer can guess and have a preview of what the building to be constructed will resemble. It is possible to visualize the lines, the volumes and the relationship with the space that the building will have.
+
 ***
 * Your company's name: BUILDINGM
 ***
