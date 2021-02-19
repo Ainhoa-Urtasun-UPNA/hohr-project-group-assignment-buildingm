@@ -62,55 +62,65 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:11-9021.00 - Construction Managers
+* ONET-SOC code and title: 11-9021.00 - Construction Managers
 1.  5 most important tasks they carry out (provide the importance score, in Details):
-* Plan, schedule, or coordinate construction project activities to meet deadlines. (94%)
-* Prepare and submit budget estimates, progress reports, or cost tracking reports. (91%)
-* Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients. (90%)
-* Direct and supervise construction or related workers. (84%)
-* Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.(80%)
+* Plan, schedule, or coordinate construction project activities to meet deadlines.
+* Prepare and submit budget estimates, progress reports, or cost tracking reports.
+* Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.
+* Direct and supervise construction or related workers.See more occupations related to this task.
+*Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.
 2. Is this job routine? Your judgment (0-10):
 3. Is this job cognitive? Your judgment (0-10):
 4. 5 most important skills they require to possess (provide the importance score, in Details):
-* Coordination — Adjusting actions in relation to others' actions. (75%)
-* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.See (75%)
-* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (72%)
-* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.(72%)
-* Speaking — Talking to others to convey information effectively. (72%)
 6.  5 technology skills:
 * Learn and follow safety regulations.See more occupations related to this task.
 * Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
 * Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
 * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
 * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
-8. Education: bachelor's degree (90%) High school diploma or equivalent (5%) Associate's degree (5%)
-9. Wages: $45.80 hourly,$95,260 annual
-10. Top industry:Helpers-Roofers
+8. Education:
+9. Wages:
+10. Top industry:
 ### Engineers
-1. ONET-SOC code and title:
+1. ONET-SOC code and title: 17-2141.00 - Mechanical Engineers
 2. 5 most important tasks they carry out (provide the importance score, in Details):
-3. Is this job routine? Your judgment (0-10):
-4. Is this job cognitive? Your judgment (0-10):
-5. 5 most important skills they require to possess (provide the importance score, in Details):
-* Learn and follow safety regulations.See more occupations related to this task.
-* Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
-* Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
-* Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
-* Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
-6. 5 technology skills
-7. Education:
-8. Wages:
-9. Top industry:
+* Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task (87%)
+* Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to this task (84%)
+* Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related to this task (79%)
+* Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more occupations related to this task (75%)
+* Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions (75%)
+4. Is this job routine? Your judgment (0-10):
+5. Is this job cognitive? Your judgment (0-10):
+6. 5 most important skills they require to possess (provide the importance score, in Details):
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill (72%)
+* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill (72%)
+* Mathematics — Using mathematics to solve problems.See more occupations related to this skill (72%)
+* Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill (72%)
+* Science — Using scientific rules and methods to solve problems (72%)
+8. 5 technology skills
+* Analytical or scientific software — MAYA Nastran; Minitab Hot technology ; ReliaSoft BlockSim; The MathWorks MATLAB Hot technologySee more occupations related to this technology.
+* Computer aided design CAD software Hot technology — Autodesk Revit Hot technology ; Bentley MicroStation Hot technology ; Dassault Systemes CATIA; Mathsoft MathcadSee more occupations related to this technology.
+* Development environment software — Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technology ; Rockwell Automation; VerilogSee more occupations related to this technology.
+* Graphics or photo imaging software — Adobe Systems Adobe Illustrator Hot technology ; Microsoft Visio Hot technology ; SmugMug Flickr Hot technology ; Trimble SketchUp Pro Hot technologySee more occupations related to this technology.
+* Object or component oriented development software — C++ Hot technology ; G-code; Practical extraction and reporting language Perl Hot technology ; Python
+9. Education:
+10. Wages:
+11. Top industry:
 ### Operators
-1. ONET-SOC code and title:
+1. ONET-SOC code and title:47-2073.00 
 2. 5 most important tasks they carry out (provide the importance score, in Details):
 3. Is this job routine? Your judgment (0-10):
 4. Is this job cognitive? Your judgment (0-10):
 5. 5 most important skills they require to possess (provide the importance score, in Details):
-6. 5 technology skills:
-7. Education:
-8. Wages:
-9. Top industry:
+- * Learn and follow safety regulations.See more occupations related to this task.
+- * Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
+- * Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
+- * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
+- * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
+7. 5 technology skills:
+8. Education:
+9. Wages:
+10. Top industry:
 ***
 
 ## Task 3
