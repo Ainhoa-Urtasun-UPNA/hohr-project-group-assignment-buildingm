@@ -72,6 +72,11 @@ This industry comprises establishments primarily engaged in manufacturing concre
 2. Is this job routine? Your judgment (0-10):
 3. Is this job cognitive? Your judgment (0-10):
 4. 5 most important skills they require to possess (provide the importance score, in Details):
+* Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
+* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.See more occupations related to this skill.
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill.
+* Speaking — Talking to others to convey information effectively.
 6.  5 technology skills:
 * Learn and follow safety regulations.See more occupations related to this task.
 * Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
