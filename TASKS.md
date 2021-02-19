@@ -23,9 +23,10 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * List of your company's primary activities divided into engineering activities and operations activities:o	Primary activities are related to the making of products and can also be divided into engineering or operations activities.
 1. ENGINEERING ACTIVITIES:
 - Design the construction plans
+- Evaluate the construction plans and construction volumes
 - Incorporation of the plans into the 3d software
 - Find and analyze the best materials to develop the models. 
-- 
+
 
 2. OPERATIONS ACTIVITIES
 - Receive and store raw materials from suppliers
