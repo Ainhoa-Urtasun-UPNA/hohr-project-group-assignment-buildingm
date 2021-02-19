@@ -1,13 +1,12 @@
 This writing uses Markdown, for help go to [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Task 1
-* Objective: analyze your industry and decide your primary and support activities
+* Objective: analyze your industry and decide your primary and support activities 
 ***
 * Your company's name: BUILDINGM
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing): 327390 Other Concrete Product Manufacturing
-**
 This industry comprises establishments primarily engaged in manufacturing concrete products (except block, brick, and pipe).
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
