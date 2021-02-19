@@ -61,10 +61,8 @@ This industry comprises establishments primarily engaged in manufacturing concre
 ## Task 2
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
-
-
 ### Managers
-* ONET-SOC code and title: 11-9021.00 - Construction Managers
+* ONET-SOC code and title:11-9021.00 - Construction Managers
 1.  5 most important tasks they carry out (provide the importance score, in Details):
 * Plan, schedule, or coordinate construction project activities to meet deadlines.
 * Prepare and submit budget estimates, progress reports, or cost tracking reports.
@@ -81,51 +79,51 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
 * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
 8. Education:
-9. Wages:$45.80 hourly, $95,260 annual 
-10. Top industry:Helpers - Roofers
-
-
+9. Wages:
+10. Top industry:
 ### Engineers
-1. ONET-SOC code and title: 17-2141.00 - Mechanical Engineers
-2. 5 most important tasks they carry out (provide the importance score, in Details):
-* Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task (87%)
-* Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to this task (84%)
-* Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related to this task (79%)
-* Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more occupations related to this task (75%)
-* Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions (75%)
-4. Is this job routine? Your judgment (0-10):
-5. Is this job cognitive? Your judgment (0-10):
-6. 5 most important skills they require to possess (provide the importance score, in Details):
-* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill (72%)
-* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill (72%)
-* Mathematics — Using mathematics to solve problems.See more occupations related to this skill (72%)
-* Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill (72%)
-* Science — Using scientific rules and methods to solve problems (72%)
-8. 5 technology skills
-* Analytical or scientific software — MAYA Nastran; Minitab Hot technology ; ReliaSoft BlockSim; The MathWorks MATLAB Hot technologySee more occupations related to this technology.
-* Computer aided design CAD software Hot technology — Autodesk Revit Hot technology ; Bentley MicroStation Hot technology ; Dassault Systemes CATIA; Mathsoft MathcadSee more occupations related to this technology.
-* Development environment software — Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technology ; Rockwell Automation; VerilogSee more occupations related to this technology.
-* Graphics or photo imaging software — Adobe Systems Adobe Illustrator Hot technology ; Microsoft Visio Hot technology ; SmugMug Flickr Hot technology ; Trimble SketchUp Pro Hot technologySee more occupations related to this technology.
-* Object or component oriented development software — C++ Hot technology ; G-code; Practical extraction and reporting language Perl Hot technology ; Python
-9. Education:
-10. Wages:
-11. Top industry:
-### Operators
-1. ONET-SOC code and title:47-2073.00 
+1. ONET-SOC code and title:
 2. 5 most important tasks they carry out (provide the importance score, in Details):
 3. Is this job routine? Your judgment (0-10):
 4. Is this job cognitive? Your judgment (0-10):
 5. 5 most important skills they require to possess (provide the importance score, in Details):
-- * Learn and follow safety regulations.See more occupations related to this task.
-- * Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
-- * Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
-- * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
-- * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
-7. 5 technology skills:
+7. 5 technology skills
 8. Education:
 9. Wages:
 10. Top industry:
-***
+### Operators
+1. ONET-SOC code and title:47-2073.00 Operating Engineers and Other Construction Equipment Operators
+2. 5 most important tasks they carry out (provide the importance score, in Details): 
+- Learn and follow safety regulations.See more occupations related to this task.(97%)
+- Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.(92%)
+- Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.(90%)
+- Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.(88%)
+- Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. (87%)
+4. Is this job routine? Your judgment (0-10): 
+5. Is this job cognitive? Your judgment (0-10):
+
+6. 5 most important skills they require to possess (provide the importance score, in Details):
+- Operation and Control — Controlling operations of equipment or systems. (78%) 
+- Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.(56%)
+- Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.(56%)
+- Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. (53%)
+- Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.(50%)
+
+7. 5 technology skills:
+- Electronic mail software — Microsoft Outlook Hot technology See more occupations related to this technology.
+- Facilities management software — Maintenance record software See more occupations related to this technology.
+- Office suite software — Microsoft Office Hot technology See more occupations related to this technology.
+- Operating system software — Microsoft Windows Hot technology See more occupations related to this technology.
+- Spreadsheet software — Microsoft Excel Hot technology See more occupations related to this technology.
+
+9. Education:
+- High school diploma or equivalent Help
+- Some college, no degree
+- Less than high school diploma
+
+11. Wages: $23.55 hourly, $48,980 annual
+12. Top industry:
+***47-3016.00	Helpers--Roofers
 
 ## Task 3
 * Objective: forecast your firm's number of available workers using Python (click the black button at the top of the README.md file)
