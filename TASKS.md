@@ -62,17 +62,22 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-1. ONET-SOC code and title:11-9021.00 - Construction Managers
-2. 5 most important tasks they carry out (provide the importance score, in Details):
+* ONET-SOC code and title:11-9021.00 - Construction Managers
+1.  5 most important tasks they carry out (provide the importance score, in Details):
 * Plan, schedule, or coordinate construction project activities to meet deadlines.
 * Prepare and submit budget estimates, progress reports, or cost tracking reports.
 * Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.
 * Direct and supervise construction or related workers.See more occupations related to this task.
 *Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.
-3. Is this job routine? Your judgment (0-10)
-4. Is this job cognitive? Your judgment (0-10):
-5. 5 most important skills they require to possess (provide the importance score, in Details):
-6. 5 technology skills:
+2. Is this job routine? Your judgment (0-10):
+3. Is this job cognitive? Your judgment (0-10):
+4. 5 most important skills they require to possess (provide the importance score, in Details):
+* Computer aided design CAD software Hot technology — Autodesk AutoCAD Civil 3D Hot technology ; Autodesk Revit Hot technology ; Cadsoft Design/Build; Computer aided design and drafting software CADDSee more occupations related to this technology.
+* Data base user interface and query software — Data entry software Hot technology ; ISS Construction Manager; Microsoft Access Hot technology ; UDA Technologies ConstructionSuiteSee more occupations related to this technology.
+* Document management software — Adobe Systems Adobe Acrobat Hot technology ; Axios Systems assyst; Daily Manager; Site ManagerSee more occupations related to this technology.
+* Graphics or photo imaging software — Adobe Systems Adobe Creative Cloud Hot technology ; Drone image capturing software; Microsoft Visio Hot technology ; Trimble SketchUp Pro Hot technologySee more occupations related to this technology.
+* Project management software — HCSS HeavyBid; Microsoft SharePoint Hot technology ; Oracle Primavera Enterprise Project Portfolio Management Hot technology ; Quantum Software Solutions Quantum Project Manager
+6.  5 technology skills:
 7. Education:
 8. Wages:
 9. Top industry:
