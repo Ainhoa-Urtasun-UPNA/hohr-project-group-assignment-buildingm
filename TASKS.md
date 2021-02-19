@@ -69,8 +69,8 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.
 * Direct and supervise construction or related workers.See more occupations related to this task.
 *Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.
-2. Is this job routine? Your judgment (0-10):
-3. Is this job cognitive? Your judgment (0-10):
+2. Is this job routine? Your judgment (0-10): This job is graded with a 3 up to 10, given that managerial tasks are in constant change and subjected to new problems that need to be solved every day. 
+3. Is this job cognitive? Your judgment (0-10):This job is graded with a 8 up to 10 as managerial tasks need critical thinking, intelectual skills and brain activity. 
 4. 5 most important skills they require to possess (provide the importance score, in Details):
 6.  5 technology skills:
 * Learn and follow safety regulations.See more occupations related to this task.
@@ -79,36 +79,18 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
 * Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
 8. Education:
-- bachelor's degree (90%)
-- high school diploma or equivalent (5%)
-- Associate's degree
-9.Wages:
-10.Top industry:
+9. Wages:
+10. Top industry:
 ### Engineers
-1. ONET-SOC code and title: 17-2141.00 - Mechanical Engineers
+1. ONET-SOC code and title:
 2. 5 most important tasks they carry out (provide the importance score, in Details):
-* Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task (87%)
-* Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to this task (84%)
-* Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related to this task (79%)
-* Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more occupations related to this task (75%)
-* Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions. (75%)
-4. Is this job routine? Your judgment (0-10):
-5. Is this job cognitive? Your judgment (0-10):
-6. 5 most important skills they require to possess (provide the importance score, in Details):
-* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
-* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
-* Mathematics — Using mathematics to solve problems.See more occupations related to this skill.
-* Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
-* Science — Using scientific rules and methods to solve problems
-8. 5 technology skills
-* Analytical or scientific software — MAYA Nastran; Minitab Hot technology ; ReliaSoft BlockSim; The MathWorks MATLAB Hot technology (see all 24 examples)See more occupations related to this technology.
-* Computer aided design CAD software Hot technology — Autodesk Revit Hot technology ; Bentley MicroStation Hot technology ; Dassault Systemes CATIA; Mathsoft Mathcad (see all 19 examples)See more occupations related to this technology.
-* Computer aided manufacturing CAM software — 1CadCam Unigraphics; Rapid prototyping softwareSee more occupations related to this technology.
-* Configuration management software — Chef; Perforce Helix software; Puppet Hot technologySee more occupations related to this technology.
-* Data base user interface and query software — Data entry software Hot technology ; Microsoft Access Hot technology ; Microsoft SQL Server
-9. Education:
-10. Wages:
-11. Top industry:
+3. Is this job routine? Your judgment (0-10):
+4. Is this job cognitive? Your judgment (0-10):
+5. 5 most important skills they require to possess (provide the importance score, in Details):
+7. 5 technology skills
+8. Education:
+9. Wages:
+10. Top industry:
 ### Operators
 1. ONET-SOC code and title:47-2073.00 Operating Engineers and Other Construction Equipment Operators
 2. 5 most important tasks they carry out (provide the importance score, in Details): 
@@ -117,8 +99,8 @@ This industry comprises establishments primarily engaged in manufacturing concre
 - Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.(90%)
 - Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.(88%)
 - Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. (87%)
-4. Is this job routine? Your judgment (0-10): 
-5. Is this job cognitive? Your judgment (0-10):
+4. Is this job routine? Your judgment (0-10): This job is rated with an 8 out of 10, given that even if the projects may differ, tasks are always simillar. Consisting on start engines, aligng machines and move levers. 
+5. Is this job cognitive? Your judgment (0-10): This job is rated with a 3 out of 10. As some education and knowledge is needed in order to perform this job, it is not rated with a 0. Nevertheless, the operator tasks are routinaire and mechanical. 
 
 6. 5 most important skills they require to possess (provide the importance score, in Details):
 - Operation and Control — Controlling operations of equipment or systems. (78%) 
