@@ -72,6 +72,11 @@ This industry comprises establishments primarily engaged in manufacturing concre
 2. Is this job routine? Your judgment (0-10): This job is graded with a 3 up to 10, given that managerial tasks are in constant change and subjected to new problems that need to be solved every day. 
 3. Is this job cognitive? Your judgment (0-10):This job is graded with a 8 up to 10 as managerial tasks need critical thinking, intelectual skills and brain activity. 
 4. 5 most important skills they require to possess (provide the importance score, in Details):
+* Coordination — Adjusting actions in relation to others' actions.(75%)
+* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job. (75%)
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times (72%)
+* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.(72%)
+* Speaking — Talking to others to convey information effectively.(72%)
 6.  5 technology skills:
 * Learn and follow safety regulations.See more occupations related to this task.
 * Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
