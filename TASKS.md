@@ -64,11 +64,11 @@ This industry comprises establishments primarily engaged in manufacturing concre
 ### Managers
 * ONET-SOC code and title:11-9021.00 - Construction Managers
 1.  5 most important tasks they carry out (provide the importance score, in Details):
-* Plan, schedule, or coordinate construction project activities to meet deadlines.
-* Prepare and submit budget estimates, progress reports, or cost tracking reports.
-* Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.
-* Direct and supervise construction or related workers.See more occupations related to this task.
-*Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.
+* Plan, schedule, or coordinate construction project activities to meet deadlines.(94%)
+* Prepare and submit budget estimates, progress reports, or cost tracking reports.(91%)
+* Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.(90%)
+* Direct and supervise construction or related workers.See more occupations related to this task.(84%)
+* Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.(80%)
 2. Is this job routine? Your judgment (0-10): This job is graded with a 3 up to 10, given that managerial tasks are in constant change and subjected to new problems that need to be solved every day. 
 3. Is this job cognitive? Your judgment (0-10):This job is graded with a 8 up to 10 as managerial tasks need critical thinking, intelectual skills and brain activity. 
 4. 5 most important skills they require to possess (provide the importance score, in Details):
