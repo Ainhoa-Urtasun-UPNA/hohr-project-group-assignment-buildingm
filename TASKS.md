@@ -61,74 +61,91 @@ This industry comprises establishments primarily engaged in manufacturing concre
 ## Task 2
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
-### Managers
-#### ONET-SOC code and title:11-9021.00 - Construction Managers
+### MANAGERS
+#### ONET-SOC code and title:
+11-9021.00 - Construction Managers
 #### 5 most important tasks they carry out (provide the importance score, in Details):
-* Plan, schedule, or coordinate construction project activities to meet deadlines.(94%)
-* Prepare and submit budget estimates, progress reports, or cost tracking reports.(91%)
-* Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.(90%)
-* Direct and supervise construction or related workers.See more occupations related to this task.(84%)
-* Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.(80%)
-#### Is this job routine? Your judgment (0-10): This job is graded with a 3 up to 10, given that managerial tasks are in constant change and subjected to new problems that need to be solved every day. 
-#### Is this job cognitive? Your judgment (0-10):This job is graded with a 8 up to 10 as managerial tasks need critical thinking, intelectual skills and brain activity. 
+- Plan, schedule, or coordinate construction project activities to meet deadlines.(94%)
+- Prepare and submit budget estimates, progress reports, or cost tracking reports.(91%)
+- Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.(90%)
+- Direct and supervise construction or related workers.See more occupations related to this task.(84%)
+- Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.(80%)
+#### Is this job routine? Your judgment (0-10): 
+This job is graded with a 3 up to 10, given that managerial tasks are in constant change and subjected to new problems that need to be solved every day. 
+#### Is this job cognitive? Your judgment (0-10):
+This job is graded with a 8 up to 10 as managerial tasks need critical thinking, intelectual skills and brain activity. 
 #### 5 most important skills they require to possess (provide the importance score, in Details):
-* Coordination — Adjusting actions in relation to others' actions.(75%)
-* Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job. (75%)
-* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times (72%)
-* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.(72%)
-* Speaking — Talking to others to convey information effectively.(72%)
+- Coordination — Adjusting actions in relation to others' actions.(75%)
+- Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job. (75%)
+- Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times (72%)
+- Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.(72%)
+- Speaking — Talking to others to convey information effectively.(72%)
 ####  5 technology skills:
 - Learn and follow safety regulations.See more occupations related to this task.
 - Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
 - Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
 - Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
 - Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
-#### Education:Bachelor's degree (90%), High school siploma or equivalent (5%) Associate's degree (5%)
-#### Wages:$45,80 hourly, $95,260 annual
-#### Top industry:Helpers--Roofers
-### Engineers
-1. ONET-SOC code and title:
-2. 5 most important tasks they carry out (provide the importance score, in Details):
-3. Is this job routine? Your judgment (0-10):
-4. Is this job cognitive? Your judgment (0-10):
-5. 5 most important skills they require to possess (provide the importance score, in Details):
-7. 5 technology skills
-8. Education:
-9. Wages:
-10. Top industry:
-### Operators
-1. ONET-SOC code and title:47-2073.00 Operating Engineers and Other Construction Equipment Operators
-2. 5 most important tasks they carry out (provide the importance score, in Details): 
+#### Education:
+Bachelor's degree (90%), High school siploma or equivalent (5%) Associate's degree (5%)
+#### Wages:
+$45,80 hourly, $95,260 annual
+#### Top industry:
+47-3016.00	 Helpers--Roofers
+### ENGINEERS
+#### ONET-SOC code and title:
+17-2141.00 - Mechanical Engineers
+####  5 most important tasks they carry out (provide the importance score, in Details):
+- Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. (87%)
+- Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements (84%)
+- Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information. (79%)
+- Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs. (75%)
+- Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions. (75%)
+
+#### Is this job routine? Your judgment (0-10):
+#### Is this job cognitive? Your judgment (0-10):
+#### 5 most important skills they require to possess (provide the importance score, in Details):
+#### 5 technology skills
+#### Education:
+- Bachelor's degree (83)
+- Associate's degree (7)
+- ome college, no degree (5)
+#### Wages:
+$42.51 hourly, $88,430 annual
+#### Top industry:
+51-4052.00	Pourers and Casters, Metal
+### OPERATORS
+#### ONET-SOC code and title:47-2073.00 Operating Engineers and Other Construction Equipment Operators
+#### 5 most important tasks they carry out (provide the importance score, in Details): 
 - Learn and follow safety regulations.See more occupations related to this task.(97%)
 - Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.(92%)
 - Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.(90%)
 - Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.(88%)
 - Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers. (87%)
-4. Is this job routine? Your judgment (0-10): This job is rated with an 8 out of 10, given that even if the projects may differ, tasks are always simillar. Consisting on start engines, aligng machines and move levers. 
-5. Is this job cognitive? Your judgment (0-10): This job is rated with a 3 out of 10. As some education and knowledge is needed in order to perform this job, it is not rated with a 0. Nevertheless, the operator tasks are routinaire and mechanical. 
-
-6. 5 most important skills they require to possess (provide the importance score, in Details):
+#### Is this job routine? Your judgment (0-10): 
+This job is rated with an 8 out of 10, given that even if the projects may differ, tasks are always simillar. Consisting on start engines, aligng machines and move levers. 
+#### Is this job cognitive? Your judgment (0-10): 
+This job is rated with a 3 out of 10. As some education and knowledge is needed in order to perform this job, it is not rated with a 0. Nevertheless, the operator tasks are routinaire and mechanical. 
+#### 5 most important skills they require to possess (provide the importance score, in Details):
 - Operation and Control — Controlling operations of equipment or systems. (78%) 
 - Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.(56%)
 - Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.(56%)
 - Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. (53%)
 - Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.(50%)
-
-7. 5 technology skills:
+#### 5 technology skills:
 - Electronic mail software — Microsoft Outlook Hot technology See more occupations related to this technology.
 - Facilities management software — Maintenance record software See more occupations related to this technology.
 - Office suite software — Microsoft Office Hot technology See more occupations related to this technology.
 - Operating system software — Microsoft Windows Hot technology See more occupations related to this technology.
 - Spreadsheet software — Microsoft Excel Hot technology See more occupations related to this technology.
-
-9. Education:
+#### Education:
 - High school diploma or equivalent Help
 - Some college, no degree
 - Less than high school diploma
-
-11. Wages: $23.55 hourly, $48,980 annual
-12. Top industry:
-***47-3016.00	Helpers--Roofers
+#### Wages:
+$23.55 hourly, $48,980 annual
+#### Top industry: 
+47-3016.00	Helpers--Roofers
 
 ## Task 3
 * Objective: forecast your firm's number of available workers using Python (click the black button at the top of the README.md file)
