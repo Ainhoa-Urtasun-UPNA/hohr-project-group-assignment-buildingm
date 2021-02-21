@@ -97,16 +97,25 @@ $45,80 hourly, $95,260 annual
 #### ONET-SOC code and title:
 17-2141.00 - Mechanical Engineers
 ####  5 most important tasks they carry out (provide the importance score, in Details):
-- Read and interpret blueprints, technical drawings, schematics, or computer-generated reports. (87%)
-- Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements (84%)
-- Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information. (79%)
-- Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs. (75%)
-- Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions. (75%)
-
+- 
+- 
+- 
+- 
+- 
 #### Is this job routine? Your judgment (0-10):
 #### Is this job cognitive? Your judgment (0-10):
 #### 5 most important skills they require to possess (provide the importance score, in Details):
+- 
+-
+-
+-
+-
 #### 5 technology skills
+-
+-
+-
+-
+-
 #### Education:
 - Bachelor's degree (83)
 - Associate's degree (7)
