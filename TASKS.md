@@ -62,30 +62,30 @@ This industry comprises establishments primarily engaged in manufacturing concre
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:11-9021.00 - Construction Managers
-1.  5 most important tasks they carry out (provide the importance score, in Details):
+#### ONET-SOC code and title:11-9021.00 - Construction Managers
+#### 5 most important tasks they carry out (provide the importance score, in Details):
 * Plan, schedule, or coordinate construction project activities to meet deadlines.(94%)
 * Prepare and submit budget estimates, progress reports, or cost tracking reports.(91%)
 * Interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.(90%)
 * Direct and supervise construction or related workers.See more occupations related to this task.(84%)
 * Prepare contracts or negotiate revisions to contractual agreements with architects, consultants, clients, suppliers, or subcontractors.(80%)
-2. Is this job routine? Your judgment (0-10): This job is graded with a 3 up to 10, given that managerial tasks are in constant change and subjected to new problems that need to be solved every day. 
-3. Is this job cognitive? Your judgment (0-10):This job is graded with a 8 up to 10 as managerial tasks need critical thinking, intelectual skills and brain activity. 
-4. 5 most important skills they require to possess (provide the importance score, in Details):
+#### Is this job routine? Your judgment (0-10): This job is graded with a 3 up to 10, given that managerial tasks are in constant change and subjected to new problems that need to be solved every day. 
+#### Is this job cognitive? Your judgment (0-10):This job is graded with a 8 up to 10 as managerial tasks need critical thinking, intelectual skills and brain activity. 
+#### 5 most important skills they require to possess (provide the importance score, in Details):
 * Coordination — Adjusting actions in relation to others' actions.(75%)
 * Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job. (75%)
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times (72%)
 * Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.(72%)
 * Speaking — Talking to others to convey information effectively.(72%)
-6.  5 technology skills:
-* Learn and follow safety regulations.See more occupations related to this task.
-* Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
-* Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
-* Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
-* Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
-8. Education:Bachelor's degree (90%), High school siploma or equivalent (5%) Associate's degree (5%)
-9. Wages:$45,80 hourly, $95,260 annual
-10. Top industry:Helpers--Roofers
+####  5 technology skills:
+- Learn and follow safety regulations.See more occupations related to this task.
+- Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.See more occupations related to this task.
+- Start engines, move throttles, switches, or levers, or depress pedals to operate machines, such as bulldozers, trench excavators, road graders, or backhoes.See more occupations related to this task.
+- Coordinate machine actions with other activities, positioning or moving loads in response to hand or audio signals from crew members.See more occupations related to this task.
+- Align machines, cutterheads, or depth gauge makers with reference stakes and guidelines or ground or position equipment, following hand signals of other workers.
+#### Education:Bachelor's degree (90%), High school siploma or equivalent (5%) Associate's degree (5%)
+#### Wages:$45,80 hourly, $95,260 annual
+#### Top industry:Helpers--Roofers
 ### Engineers
 1. ONET-SOC code and title:
 2. 5 most important tasks they carry out (provide the importance score, in Details):
