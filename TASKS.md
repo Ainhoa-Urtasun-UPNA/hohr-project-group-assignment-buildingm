@@ -92,6 +92,7 @@ Bachelor's degree (90%), High school siploma or equivalent (5%) Associate's degr
 $45,80 hourly, $95,260 annual
 #### Top industry:
 47-3016.00	 Helpers--Roofers
+***
 ### ENGINEERS
 #### ONET-SOC code and title:
 17-2141.00 - Mechanical Engineers
@@ -114,6 +115,7 @@ $45,80 hourly, $95,260 annual
 $42.51 hourly, $88,430 annual
 #### Top industry:
 51-4052.00	Pourers and Casters, Metal
+***
 ### OPERATORS
 #### ONET-SOC code and title:47-2073.00 Operating Engineers and Other Construction Equipment Operators
 #### 5 most important tasks they carry out (provide the importance score, in Details): 
