@@ -97,25 +97,28 @@ $45,80 hourly, $95,260 annual
 #### ONET-SOC code and title:
 17-2141.00 - Mechanical Engineers
 ####  5 most important tasks they carry out (provide the importance score, in Details):
-- 
-- 
-- 
-- 
-- 
+- Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task (87%).
+- Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to this task (84%).
+- Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related to this task (79%).
+- Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more occupations related to this task (75%).
+- Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions (75%).
+
 #### Is this job routine? Your judgment (0-10):
 #### Is this job cognitive? Your judgment (0-10):
 #### 5 most important skills they require to possess (provide the importance score, in Details):
-- 
--
--
--
--
+- Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill (72%).
+- Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill (72%).
+- Mathematics — Using mathematics to solve problems.See more occupations related to this skill (72%).
+- Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill (72%).
+- Science — Using scientific rules and methods to solve problems (72%).
+
 #### 5 technology skills
--
--
--
--
--
+- Analytical or scientific software — MAYA Nastran; Minitab Hot technology ; ReliaSoft BlockSim; The MathWorks MATLAB Hot technologySee more occupations related to this technology.
+- Computer aided design CAD software Hot technology — Autodesk Revit Hot technology ; Bentley MicroStation Hot technology ; Dassault Systemes CATIA; Mathsoft MathcadSee more occupations related to this technology.
+- Development environment software — Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technology ; Rockwell Automation; VerilogSee more occupations related to this technology.
+- Graphics or photo imaging software — Adobe Systems Adobe Illustrator Hot technology ; Microsoft Visio Hot technology ; SmugMug Flickr Hot technology ; Trimble SketchUp Pro Hot technologySee more occupations related to this technology.
+- Object or component oriented development software — C++ Hot technology ; G-code; Practical extraction and reporting language Perl Hot technology ; Python
+
 #### Education:
 - Bachelor's degree (83)
 - Associate's degree (7)
