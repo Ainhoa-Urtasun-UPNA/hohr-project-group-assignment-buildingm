@@ -178,7 +178,12 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
-
+RESULTS:
+4'333333
+12'45833
+7'041666
+We expect to demand 4 managers, 12 engineers and 7 operators in a year from now and we had  1 manager, 1 engineer and 2 operators.
+In this case, we have a shortage of 3 managers, 11 engineers and 5 operators.
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
