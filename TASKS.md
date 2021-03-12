@@ -103,8 +103,11 @@ $45,80 hourly, $95,260 annual
 - Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more occupations related to this task (75%).
 - Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions (75%).
 
-#### Is this job routine? Your judgment (0-10):
+#### Is this job routine? Your judgment (0-10): 
+We don't consider an engineer job as routinaire. In fact, we have rated it with a 4 out of 10, given that some of the tasks consist on the same structure such as designing plans and set up the machines. However, each project demands independent surveillence which makes this job unstandarized. 
 #### Is this job cognitive? Your judgment (0-10):
+We consider this job extremely cognitive. First of all, you need a certaing qualified degree and knowledge that requires mental skills and consistency on its development (usually takes 4 year degree plus 2 year of MBA). 
+
 #### 5 most important skills they require to possess (provide the importance score, in Details):
 - Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill (72%).
 - Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill (72%).
@@ -166,6 +169,7 @@ $23.55 hourly, $48,980 annual
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
+During the very first year we were 4 people in total working in the company, in fact, we were 2 managers, 1 engineer and 1 operator. After several staff movements, we can conclude that the expected number of available workers one year from now will be 1 manager, 1 engineer and 2 operators. 
 
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
