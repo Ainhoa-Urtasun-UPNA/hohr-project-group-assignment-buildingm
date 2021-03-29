@@ -188,6 +188,29 @@ In this case, we have a shortage of 3 managers, 11 engineers and 5 operators.
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+WHY:  BuildingM is looking for managers that will contribute to team efforts by accomplishing the company’s objectives. According to our HR Planning research, we need 3 managers. As this occupation’s automation risk is very low (7%), we offer 3 vacancies to cover this job.
+
+Construction managers – work from home
+
+-	11-9021.00 - Construction Managers
+-	327390 Other Concrete Product Manufacturing This industry comprises establishments primarily engaged in manufacturing concrete products (except block, brick, and pipe).
+-	TASKS NEEDED 
+o	In order to carry out this job the applicant must be able to plan, schedule and coordinate construction project activities. Not only that but also to direct and supervise construction or related workers, as well as interpret and explain plans. 
+-	SKILLS NEEDED:
+o	The candidate is required to possess coordination ability, be able to talk to others to convey information effectively, as well as giving full attention to what other people are saying or asking. Also, be able to monitor itself, other individuals’ performances or organizations. 
+-	CREDENTIALS NEEDED:
+o	Bachelor's degree 
+o	High school diploma or equivalent
+o	Associate degree
+-	JOB-TYPE:
+o	It is a full-time job, that requires the worker to be accessible during the entire day. 
+-	LOCATION
+o	Due to the Covid-19 pandemic, this occupation will be developed teleworking.
+-	SALARY
+o	$47/hour
+-	PERKS:
+o	Healthcare insurance, childcare assistance and employee appreciation programs.
+
 ### Job posting for Engineers:
 ### Job posting for Operators:
 ***
