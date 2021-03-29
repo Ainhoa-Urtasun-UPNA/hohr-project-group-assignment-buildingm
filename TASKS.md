@@ -212,8 +212,40 @@ o	$47/hour
 o	Healthcare insurance, childcare assistance and employee appreciation programs.
 
 ### Job posting for Engineers:
+
 ### Job posting for Operators:
-***
+JOB POSTING FOR OPERATORS
+
+WHY:  BuildingM offers 3 operator vacancies. The company doesn't want to hire all the operators needed because the automation risk is quite high (95%) which means that operators can be easily replaced by machines, the firm prefers to hire just 3 and not to lay them off later on.
+
+Operators to perform 3D Printing. 
+
+47-2073.00 Operating Engineers and Other Construction Equipment Operators
+
+-	327390 Other Concrete Product Manufacturing This industry comprises establishments primarily engaged in manufacturing concrete products (except block, brick, and pipe).
+
+-	TASKS NEEDED 
+
+o	As an operator you are required to execute 3D mock-ups. This implies to start engines, coordinate machine actions with other activities, as well as take action to avoid potential hazards or obstructions, learn and follow safety regulations. 
+
+-	SKILLS NEEDED:
+o	In order to appropriately carry out this occupation, routine maintenance on equipment is needed, together with watching indicators to make sure a machine is working properly and effectively manage the operating system software used by the company
+
+-	CREDENTIALS NEEDED:
+o	High school diploma or equivalent
+o	Some college, no degree
+o	Less than high school diploma 
+
+-	JOB-TYPE:
+o	It is a part-time job
+
+-	LOCATION
+o	This occupation will be developed in the factory
+-	SALARY
+o	$25/hour
+-	PERKS:
+o	Healthcare insurance, childcare assistance, employee discounts and rewards, retirement plan.
+
 
 ## Task 6
 * Objective: Create a website for your project
