@@ -214,18 +214,14 @@ o	Healthcare insurance, childcare assistance and employee appreciation programs.
 ### Job posting for Engineers:
 
 ### Job posting for Operators:
-JOB POSTING FOR OPERATORS
-
 WHY:  BuildingM offers 3 operator vacancies. The company doesn't want to hire all the operators needed because the automation risk is quite high (95%) which means that operators can be easily replaced by machines, the firm prefers to hire just 3 and not to lay them off later on.
 
 Operators to perform 3D Printing. 
 
-47-2073.00 Operating Engineers and Other Construction Equipment Operators
-
+- 47-2073.00 Operating Engineers and Other Construction Equipment Operators
 -	327390 Other Concrete Product Manufacturing This industry comprises establishments primarily engaged in manufacturing concrete products (except block, brick, and pipe).
 
 -	TASKS NEEDED 
-
 o	As an operator you are required to execute 3D mock-ups. This implies to start engines, coordinate machine actions with other activities, as well as take action to avoid potential hazards or obstructions, learn and follow safety regulations. 
 
 -	SKILLS NEEDED:
