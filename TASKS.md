@@ -212,6 +212,33 @@ o	$47/hour
 o	Healthcare insurance, childcare assistance and employee appreciation programs.
 
 ### Job posting for Engineers:
+WHY: BuildingM searches for 11 engineers able to design and develop the 3D printing mockups demanded by our clients.  We have desired to offer this number because we have a shortage of 11 engineers and due to the fact that this occupation’s automation risk is very low (1%), all of them will be needed
+
+Mechanical Engineer to perfom 3D Printing. 
+
+17-2141.00 - Mechanical Engineers
+
+-	327390 Other Concrete Product Manufacturing This industry comprises establishments primarily engaged in manufacturing concrete products (except block, brick, and pipe).
+-	TASKS NEEDED 
+o	As an engineer, you’re responsible for reading and interpreting technical drawings, schematics or computer-generated reports. In addition, you should be able to design, evaluate and integrate the plans into the 3D printers.  The candidate must monitor all aspects of production, such as selection, fabrication, manufacturing methods and investigate failures or difficulties.
+
+-	SKILLS NEEDED:
+o	The engineer is required to possess a critical thinking, using logic, reasoning and mathematics to solve problems. Not only that but also, to use scientific rules and methods to identify the production’s strengths and weaknesses.
+
+-	CREDENTIALS NEEDED:
+o	Bachelor's degree 
+o	Associate's degree 
+
+-	JOB-TYPE:
+o	It is a full-time job, that requires the worker to be accessible in the plant as well as from home.
+
+-	LOCATION
+o	Due to the Covid-19 pandemic, this occupation will be developed both face-to face and teleworking.
+-	SALARY
+o	$35/hour
+-	PERKS:
+o	Healthcare insurance, childcare assistance, employee discounts and rewards, vacation/paid off.
+
 
 ### Job posting for Operators:
 WHY:  BuildingM offers 3 operator vacancies. The company doesn't want to hire all the operators needed because the automation risk is quite high (95%) which means that operators can be easily replaced by machines, the firm prefers to hire just 3 and not to lay them off later on.
