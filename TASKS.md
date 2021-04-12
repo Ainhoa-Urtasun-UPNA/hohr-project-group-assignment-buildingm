@@ -2,8 +2,11 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities.
-* Every architectural project needs a concept model that helps architects and clients to visualize the idea.  3D printers for architectural models are becoming more and more common in cutting-edge studios all over the world.
-Models are the most realistic and approximate expression of what a building will look like once it is built. The viewer can guess and have a preview of what the building to be constructed will resemble. It is possible to visualize the lines, the volumes and the relationship with the space that the building will have.
+* Every architectural project needs a concept model that helps architects and clients to visualize the idea. 3D printers for architectural models are becoming more and more common in cutting-edge studios all over the world. Models are the most realistic and approximate expression of what a building will look like once it is built. The viewer can guess and have a preview of what the building to be constructed will resemble. It is possible to visualize the lines, the volumes and the relationship with the space that the building will have.
+
+Our company’s core business is to create personalized models adapted to multiple industries. For instance, we have composed various models for real estate agencies and developers, allowing the public to see what they are buying before it is built. Furthermore, we have reproduced some of the biggest architectural pieces around Spain, including the “Guggenheim Museum” in Bilbao and “La Sagrada Familia” in Barcelona. The former allowed the builders of the basilica to try the different details before including them in real life which has notably improved the final result. 
+
+BuildingM can turn any idea, large or small, simple or complex, into a reality. We can manufacture any type of design, from prototyping to large-scale production. We now have the power to customize like never before and also to produce your product when and where you need it - from prototyping to full-scale production. BuildingM will help you open new markets and develop new applications, upgrading your business to a whole new level. 
 
 ***
 * Your company's name: BUILDINGM
