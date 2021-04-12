@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BUILDING-M
 
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-buildingm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
