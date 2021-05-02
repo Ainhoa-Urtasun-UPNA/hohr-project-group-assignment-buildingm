@@ -2,7 +2,11 @@
 
 
 
+
+
 ![meet the team ](https://user-images.githubusercontent.com/78742938/116818535-2aee2580-ab6c-11eb-9486-c5f9d02fd7a8.png)
+
+
 
 
 
@@ -10,7 +14,11 @@
 
 
 
+
+
 ![what we offer ](https://user-images.githubusercontent.com/78742938/116818551-448f6d00-ab6c-11eb-8fd8-523d11bcbe86.png)
+
+
 
 
 
@@ -18,7 +26,11 @@
 
 
 
+
+
 ![Our workers](https://user-images.githubusercontent.com/78742938/116818558-53761f80-ab6c-11eb-980d-d05c8ac82914.png)
+
+
 
 
 
@@ -26,7 +38,11 @@
 
 
 
+
+
 ![8](https://user-images.githubusercontent.com/78742938/116818568-5e30b480-ab6c-11eb-8213-d088a2e75eec.png)
+
+
 
 
 
@@ -34,7 +50,11 @@
 
 
 
+
+
 ![10](https://user-images.githubusercontent.com/78742938/116818581-70125780-ab6c-11eb-90ea-5f1bb3a033cd.png)
+
+
 
 
 
@@ -42,7 +62,11 @@
 
 
 
+
+
 ![job posting 2 ](https://user-images.githubusercontent.com/78742938/116818589-7d2f4680-ab6c-11eb-9b4a-3c0a67b8e65d.png)
+
+
 
 
 
