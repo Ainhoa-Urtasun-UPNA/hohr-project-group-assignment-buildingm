@@ -1,5 +1,10 @@
-# BUILDING-M
-## BUILDINGM helps architects and clients to visualize their architectural projects represented in 3D printing. 
+!(BUILDINGM)![BUILDINGM](https://user-images.githubusercontent.com/78742938/116818413-794ef480-ab6b-11eb-8d07-65941a60a367.png)
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-buildingm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
