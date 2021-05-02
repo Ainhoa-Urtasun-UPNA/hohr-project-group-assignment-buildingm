@@ -54,7 +54,8 @@
 
 
 
-![tabla matrices ](https://user-images.githubusercontent.com/78742938/116818572-67218600-ab6c-11eb-91bc-346f1e9624db.png)
+![BUILDINGM-4](https://user-images.githubusercontent.com/78742938/116824369-1c166b80-ab8a-11eb-8ba9-b76e68203cad.png)
+
 
 
 ![BUILDINGM copia](https://user-images.githubusercontent.com/78742938/116818811-8c62c400-ab6d-11eb-81d7-efde2911e0e5.png)
